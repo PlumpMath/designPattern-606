@@ -15,3 +15,22 @@ public class GooseAdapter implements Quackable {
     goose.honk();
   }
 }
+
+//chicken
+public class Chicken {
+  public void gugu(){
+    System.out.println("gugu");
+  }
+}
+
+//鸡适配器
+public class ChickenAdapter implements Quackable {
+  Chicken chicken;
+
+  public ChickenAdapter(Chicken chicken) {
+    this.chicken = chicken;
+  }
+  public void quack(){
+    chicken.gugu();
+  }
+}
