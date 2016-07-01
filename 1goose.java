@@ -41,3 +41,6 @@ public class Dog {
   }
 }
 //git stash功能可以把工作现场储藏起来备用
+//asdkgjl;akgjak
+//askljgqwetjkfalsd/
+//l;akgjl;akgjaslkfj
