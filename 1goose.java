@@ -40,3 +40,4 @@ public class Dog {
     System.out.println("wangwang");
   }
 }
+//git stash功能可以把工作现场储藏起来备用
