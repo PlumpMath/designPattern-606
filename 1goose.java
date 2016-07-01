@@ -34,3 +34,9 @@ public class ChickenAdapter implements Quackable {
     chicken.gugu();
   }
 }
+//dog
+public class Dog {
+  public void wangwang(){
+    System.out.println("wangwang");
+  }
+}
