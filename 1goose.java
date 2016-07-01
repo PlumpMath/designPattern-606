@@ -15,3 +15,4 @@ public class GooseAdapter implements Quackable {
     goose.honk();
   }
 }
+//master branch has changed
