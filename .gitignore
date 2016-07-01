@@ -1,0 +1,4 @@
+#vim
+*.md.swp
+*.md.un~
+*.md~
